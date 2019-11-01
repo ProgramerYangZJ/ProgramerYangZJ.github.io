@@ -1,0 +1,18 @@
+#heartBeatLine {
+    width: 200px;
+    height: 100px;
+    font-size: 0;
+    background: #000;
+}
+#heartBeatLine .circle {
+    background:yellow;
+    width: 1.5px;
+    height: 1.5px;
+    border-radius: 100px;
+    position: absolute;
+}
+#heartBeatLine .curCircle{
+    width: 3px;
+    height: 3px;
+    background : red;
+}
